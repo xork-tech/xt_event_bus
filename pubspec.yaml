@@ -1,8 +1,5 @@
 name: xt_event_bus
-description: XtEventBus is a powerful library that simplifies event-driven communication within your Flutter applications. 
-  Based on the popular EventBus pattern, this library provides a streamlined solution for efficiently exchanging messages, notifications, and data between different components of your app. 
-  With XtEventBus, you can easily decouple and organize your code, enabling better separation of concerns and promoting cleaner and more maintainable architectures. 
-  By employing a publish-subscribe model, this library allows you to create dynamic and flexible communication channels that connect different parts of your application effortlessly.
+description: XtEventBus is a powerful library that simplifies event-driven communication within your Flutter applications. Based on the popular EventBus pattern, this library provides a streamlined solution for efficiently exchanging messages, notifications, and data between different components of your app. 
 version: 1.0.0
 homepage: https://github.com/xork-tech/xt_event_bus
 
