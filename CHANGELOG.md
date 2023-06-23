@@ -1,3 +1,3 @@
 ## 1.0.0
 
-* TODO: Describe initial release.
+* Add `EventBus`, Add `EventHandler` mixin, Add `EventEmitter` mixin.
