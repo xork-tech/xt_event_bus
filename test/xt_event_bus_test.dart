@@ -1,6 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:xt_event_bus/src/event_bus.dart';
-import 'package:xt_event_bus/src/event_handler.dart';
 
 import 'package:xt_event_bus/xt_event_bus.dart';
 
