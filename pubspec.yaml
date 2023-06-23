@@ -4,7 +4,7 @@ description: XtEventBus is a powerful library that simplifies event-driven commu
   With XtEventBus, you can easily decouple and organize your code, enabling better separation of concerns and promoting cleaner and more maintainable architectures. 
   By employing a publish-subscribe model, this library allows you to create dynamic and flexible communication channels that connect different parts of your application effortlessly.
 version: 1.0.0
-homepage:
+homepage: https://github.com/xork-tech/xt_event_bus
 
 environment:
   sdk: '>=3.0.5 <4.0.0'
